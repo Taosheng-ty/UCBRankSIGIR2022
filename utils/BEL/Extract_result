@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+## I will develop the funciton extract results from folder.
+from results_org import merge_multiple_experiment_results
+import argparse
+import argcomplete
+
+parser = argparse.ArgumentParser(description='extract several results to a dataframe')
+parser.add_argument('--Path', type=str, default=None,required=True,
+                    help='Directory of file.')
+argcomplete.autocomplete(parser)
+args = parser.parse_args()
+root_path=args.Path
+merge_multiple_experiment_results(root_path)

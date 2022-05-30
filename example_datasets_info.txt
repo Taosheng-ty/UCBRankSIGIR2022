@@ -1,0 +1,39 @@
+{
+  "Webscope_C14_Set1": {
+    "num_folds": 1,
+    "fold_paths": 
+      [
+        "/home/ec2-user/documents/datasets/Webscope_C14_Set1/"
+      ],
+    "num_relevance_labels": 5,
+    "num_nonzero_feat": 519,
+    "num_unique_feat": 501,
+    "query_normalized": true
+  },
+  "MSLR-WEB30k": {
+    "num_folds": 5,
+    "fold_paths": 
+      [
+        "/home/ec2-user/documents/datasets/MSLR-WEB30k/Fold1/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30k/Fold2/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30k/Fold3/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30k/Fold4/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30k/Fold5/"
+      ],
+    "num_relevance_labels": 5,
+    "num_nonzero_feat": 136,
+    "num_unique_feat": 131,
+    "query_normalized": true
+  },
+  "istella": {
+    "num_folds": 1,
+    "fold_paths": 
+      [
+        "/PATH/TO/istella/"
+      ],
+    "num_relevance_labels": 5,
+    "num_nonzero_feat": 220,
+    "num_unique_feat": 193,
+    "query_normalized": true
+  }
+}

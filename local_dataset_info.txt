@@ -1,0 +1,171 @@
+{
+  "Webscope_C14_Set1": {
+    "num_folds": 1,
+    "fold_paths": 
+      [
+        "/raid/datasets/shared/Yahoo/"
+      ],
+    "num_relevance_labels": 5,
+    "num_nonzero_feat": 519,
+    "num_unique_feat": 501,
+    "query_normalized": true,
+     "feature_filter_dim":[]
+  },
+  "MSLR-WEB30k": {
+    "num_folds": 5,
+    "fold_paths": 
+      [
+        "/raid/datasets/shared/MSLR-WEB30K/Fold1/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold2/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold3/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold4/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold5/"
+      ],
+    "num_relevance_labels": 5,
+    "num_nonzero_feat": 136,
+    "num_unique_feat": 131,
+    "query_normalized": true,
+      "feature_filter_dim":[]
+  },
+  "MSLR-WEB30k_beh_rm": {
+    "num_folds": 5,
+    "fold_paths": 
+      [
+        "/raid/datasets/shared/MSLR-WEB30K_rm_clicks/full/Fold1/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold2/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold3/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold4/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold5/"
+      ],
+    "num_relevance_labels": 5,
+    "num_nonzero_feat": 133,
+    "num_unique_feat": 128,
+    "query_normalized": true,
+    "feature_filter_dim":[134,135,136]
+  },
+    "MSLR-WEB30k_beh_rm1%": {
+    "num_folds": 5,
+    "fold_paths": 
+      [
+        "/raid/datasets/shared/MSLR-WEB30K_rm_clicks/toyMSLR1%/Fold1/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold2/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold3/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold4/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold5/"
+      ],
+    "num_relevance_labels": 5,
+    "num_nonzero_feat": 133,
+    "num_unique_feat": 128,
+    "query_normalized": true,
+    "feature_filter_dim":[134,135,136]
+  },
+    "MSLR-WEB30k_beh_rm10%": {
+    "num_folds": 5,
+    "fold_paths": 
+      [
+        "/raid/datasets/shared/MSLR-WEB30K_rm_clicks/toyMSLR10%/Fold1/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold2/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold3/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold4/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold5/"
+      ],
+    "num_relevance_labels": 5,
+    "num_nonzero_feat": 133,
+    "num_unique_feat": 128,
+    "query_normalized": true,
+    "feature_filter_dim":[134,135,136]
+  },
+    "MSLR-WEB10k_beh_rm": {
+    "num_folds": 5,
+    "fold_paths": 
+      [
+        "/raid/datasets/shared/MSLR-WEB10K_rm_clicks/Fold1/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold2/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold3/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold4/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold5/"
+      ],
+    "num_relevance_labels": 5,
+    "num_nonzero_feat": 133,
+    "num_unique_feat": 128,
+    "query_normalized": true,
+    "feature_filter_dim":[134,135,136]
+  },
+  
+      "MQ2007": {
+    "num_folds": 5,
+    "fold_paths": 
+      [
+        "/raid/datasets/shared/MQ2007/Fold1/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold2/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold3/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold4/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold5/"
+      ],
+    "num_relevance_labels": 3,
+    "num_nonzero_feat": 41,
+    "num_unique_feat": 41,
+    "query_normalized": true,
+    "feature_filter_dim":[]
+  },
+        "MQ2008": {
+    "num_folds": 5,
+    "fold_paths": 
+      [
+        "/raid/datasets/shared/MQ2008/Fold1/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold2/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold3/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold4/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold5/"
+      ],
+    "num_relevance_labels": 3,
+    "num_nonzero_feat": 40,
+    "num_unique_feat": 40,
+    "query_normalized": true,
+    "feature_filter_dim":[]
+  },
+          "NP2003": {
+    "num_folds": 5,
+    "fold_paths": 
+      [
+        "/raid/datasets/shared/2003_np_dataset/Fold1/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold2/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold3/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold4/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold5/"
+      ],
+    "num_relevance_labels": 2,
+    "num_nonzero_feat": 59,
+    "num_unique_feat": 59,
+    "query_normalized": true,
+    "feature_filter_dim":[]
+  },
+          "NP2004": {
+    "num_folds": 5,
+    "fold_paths": 
+      [
+        "/raid/datasets/shared/2004_np_dataset/Fold1/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold2/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold3/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold4/",
+        "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold5/"
+      ],
+    "num_relevance_labels": 2,
+    "num_nonzero_feat": 59,
+    "num_unique_feat": 59,
+    "query_normalized": true,
+    "feature_filter_dim":[]
+  },
+  "istella-s": {
+    "num_folds": 1,
+    "fold_paths": 
+      [
+        "/raid/datasets/shared/Istella-s/"
+      ],
+    "num_relevance_labels": 5,
+    "num_nonzero_feat": 220,
+    "num_unique_feat": 193,
+    "query_normalized": true,
+    "feature_filter_dim":[]
+  }
+}
