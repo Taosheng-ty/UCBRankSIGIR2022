@@ -112,7 +112,7 @@
     "num_folds": 5,
     "fold_paths": 
       [
-        "/raid/datasets/shared/MQ2008/Fold1/",
+        "/Users/toyng/Documents/data/MQ2008/Fold1/",
         "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold2/",
         "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold3/",
         "/home/ec2-user/documents/datasets/MSLR-WEB30K/Fold4/",

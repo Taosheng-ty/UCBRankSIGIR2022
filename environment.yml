@@ -1,4 +1,4 @@
-name: ultra_p36
+name: UCBRank
 channels:
   - pytorch
   - defaults
